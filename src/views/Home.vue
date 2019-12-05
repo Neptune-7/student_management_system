@@ -59,9 +59,6 @@ body,
   margin-right: auto;
   margin-left: auto;
 }
-.el-main {
-  text-align: center;
-}
 .el-footer {
   width: 100%;
   padding-right: 15%;
